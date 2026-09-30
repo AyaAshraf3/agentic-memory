@@ -1,0 +1,7 @@
+langgraph>=1.0
+langchain>=1.0
+langchain-openai        # LiteLLM proxy (OpenAI-compatible)
+streamlit>=1.38
+python-dotenv
+# langchain-anthropic   # if you use MODEL=anthropic:...
+# mem0ai                # only for mem0_demo.py
